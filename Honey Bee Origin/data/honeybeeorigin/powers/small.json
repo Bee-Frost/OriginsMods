@@ -1,0 +1,9 @@
+{
+  "type": "origins:multiple",
+  "modify_size": {
+    "type": "extraorigins:modify_size",
+    "scale": 0.6
+  },
+  "name": "Insect Size",
+  "description": "You're almost half the size of a normal player, you can fit inside one block gaps by crouching."
+}

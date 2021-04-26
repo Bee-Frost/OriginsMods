@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"honeybeeorigin:flight",
+		"origins:slow_falling",
+		"honeybeeorigin:bloom",
+		"honeybeeorigin:poisonous",
+		"honeybeeorigin:lifespan",
+		"honeybeeorigin:death",
+		"honeybeeorigin:small",
+		"honeybeeorigin:nighttime",
+		"honeybeeorigin:rain",
+		"honeybeeorigin:nofood",
+		"honeybeeorigin:flowerrush",
+		"honeybeeorigin:slowtouch"
+		
+	],
+	"icon": "minecraft:honey_bottle",
+	"order": 7,
+	"impact": 3,
+	"name": "Honey Bee",
+	"description":"A relative of the Bee, Honey Bees can be seen gently flying around flowers and creating complex structures."
+}
