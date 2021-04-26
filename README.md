@@ -8,3 +8,5 @@ The Honey Bee Origin is a variation of sakisiil's Bumble Bee Origin. Here are it
 6. They are about 0.6 the size of a normal player.
 7. They have mining fatigue and weakness when under an open sky during the night or rain.
 8. Their Secondary Origin Power is instant death for both themselves and the nearest player. 
+
+To use it, download the ZIP file and put it into the datapacks folder in the world folder you want to play with it in.
